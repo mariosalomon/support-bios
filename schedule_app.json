@@ -1,0 +1,519 @@
+[{
+    "shiftplanning_id": 1835262,
+    "name": "Brandon Wolf",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/7332/1819/Photo_on_6-11-15_at_11.00_AM.jpg",
+    "team": "Global",
+    "title": "VP of Customer Experience",
+    "zendesk_id": 400227335
+  }, {
+    "shiftplanning_id": 1909870,
+    "name": "Casem AbuLughod",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/7748/3095/casem.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 1213476599
+  }, {
+    "shiftplanning_id": 1909869,
+    "name": "Eliot Dyson",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/7760/9359/eliot.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 1270930569
+  }, {
+    "shiftplanning_id": 3711400,
+    "name": "Enrique Esparza",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/8364/5786/enrique.jpeg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 7058968143
+  }, {
+    "shiftplanning_id": 1909878,
+    "name": "Erica Simmons",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/2743/6423/IMG_8629.JPG",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 694437875
+  }, {
+    "shiftplanning_id": 1909879,
+    "name": "Jessica Eisner",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/7390/9745/IMG_20150604_152149__4_.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 1088216935
+  }, {
+    "shiftplanning_id": 1909872,
+    "name": "Jordan Wheelock",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 1467494579
+  }, {
+    "shiftplanning_id": 1909873,
+    "name": "Khoa Le",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/7559/3535/khoa.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 1127027009
+  }, {
+    "shiftplanning_id": 1909874,
+    "name": "Lindsey Liss",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/6264/7099/profile_image_440309909_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 440309909
+  }, {
+    "shiftplanning_id": 1909875,
+    "name": "Scott Markovits",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/6261/2019/profile_image_440310109_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 440310109
+  }, {
+    "shiftplanning_id": 1835251,
+    "name": "Sean Kinney",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/6055/3779/avatar_3.JPG",
+    "team": "Global",
+    "title": "Director of Support",
+    "zendesk_id": 433084555
+  }, {
+    "shiftplanning_id": 1909880,
+    "name": "Tobias Zuercher",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/0465/1716/toby_portrait.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 740977639
+  }, {
+    "shiftplanning_id": 2133415,
+    "name": "Andre O`Sullivan",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/0030/9446/IMG_2251.JPG",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 1387613216
+  }, {
+    "shiftplanning_id": 2410836,
+    "name": "Reika Zhao",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0001/9538/3113/reika.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 1700723703
+  }, {
+    "shiftplanning_id": 2470180,
+    "name": "Steve Overton",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/0317/4336/Steve.png",
+    "team": "L3",
+    "title": "Technical Account Manager",
+    "zendesk_id": 1789127253
+  }, {
+    "shiftplanning_id": 2526329,
+    "name": "Jenny Feith",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/2490/6443/Dublin_Headshots_-_DHS_1456.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 1904095696
+  }, {
+    "shiftplanning_id": 2682493,
+    "name": "Ally Stephens",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/2850/6666/image1.JPG",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 2435450626
+  }, {
+    "shiftplanning_id": 2732259,
+    "name": "Aditi Nagjee",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/0788/3066/ProfilePic_ZD.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 2576744106
+  }, {
+    "shiftplanning_id": 2779097,
+    "name": "Leslie Carrillo",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/4374/8483/FullSizeRender__1_.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 2696325143
+  }, {
+    "shiftplanning_id": 3028574,
+    "name": "Haley Ivey",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/0115/0303/14468422_2979477042365_999413449426060833_o.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 3774672886
+  }, {
+    "shiftplanning_id": 3070671,
+    "name": "Sam Raphael",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/9226/6426/X_eFeZpm.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 4032873186
+  }, {
+    "shiftplanning_id": 3220169,
+    "name": "Francisco Garrido",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/1694/3986/T02JUU8R5-U4GFTBJG1-7905c9a4cfe5-1024.png",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 4892054306
+  }, {
+    "shiftplanning_id": 3234002,
+    "name": "Daniel Brown",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/1885/7906/T02JUU8R5-U4KLLQE1X-433abf186a4c-1024.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 4937513303
+  }, {
+    "shiftplanning_id": 3252647,
+    "name": "Karan Patel",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/2070/7446/profile_image_4987510643_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 4987510643
+  }, {
+    "shiftplanning_id": 3266199,
+    "name": "Kaleb Garrison",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/2264/1446/Kaleb.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 5336036066
+  }, {
+    "shiftplanning_id": 3273091,
+    "name": "James Dohm",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 5340395206
+  }, {
+    "shiftplanning_id": 3348686,
+    "name": "Shane Tjong-Akiet",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/3087/1043/pic.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 5647986846
+  }, {
+    "shiftplanning_id": 3397507,
+    "name": "Ivan Gromov",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/8204/9383/IMG_0744.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 5787773486
+  }, {
+    "shiftplanning_id": 3419641,
+    "name": "Ella Bearth",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/3873/5443/profile_image_5881509266_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 5881509266
+  }, {
+    "shiftplanning_id": 3479828,
+    "name": "Michael Stallings",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/4921/3203/FullSizeRender.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 6069185263
+  }, {
+    "shiftplanning_id": 3554612,
+    "name": "Rashad Blalock",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/5831/5423/profile_image_6399707283_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 6399707283
+  }, {
+    "shiftplanning_id": 3554613,
+    "name": "Jacob Hendrickson",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/5866/6503/profile_image_6411364586_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 6411364586
+  }, {
+    "shiftplanning_id": 3594960,
+    "name": "Joe Donahue",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/6494/0863/profile_image_6604030586_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 6604030586
+  }, {
+    "shiftplanning_id": 3637564,
+    "name": "Kate Johnson",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/7370/7866/profile_image_6755565283_604014.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 6755565283
+  }, {
+    "shiftplanning_id": 3699212,
+    "name": "Ryan Bounedara",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/7776/2203/profile_image_7001701703_604014_thumb.png",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 7001701703
+  }, {
+    "shiftplanning_id": 3704306,
+    "name": "Rita Jones",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/7950/6063/profile_image_7049356803_604014_thumb.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 7049356803
+  }, {
+    "shiftplanning_id": 3711399,
+    "name": "Rico Dunnigan",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/8263/5886/profile_image_7059040703_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 7059040703
+  }, {
+    "shiftplanning_id": 3728399,
+    "name": "Daniel Ionashku",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/8515/9743/Monosnap_2017-11-09_16-12-06.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 7102051243
+  }, {
+    "shiftplanning_id": 3774143,
+    "name": "RC Maples",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/9340/0286/profile_image_7379310363_604014.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 7379310363
+  }, {
+    "shiftplanning_id": 3761284,
+    "name": "Vanessa Davis",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/8539/3863/profile_image_7212726066_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 7212726066
+  }, {
+    "shiftplanning_id": 3732803,
+    "name": "Patrick Binns",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0003/8790/8906/profile_image_7204126203_604014.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 7204126203
+  }, {
+    "shiftplanning_id": 3803898,
+    "name": "John Bagwell",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/0404/8666/T02JUU8R5-W8FNXDYHF-c2cd1db7173b-1024.jpeg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 7505286286
+  }, {
+    "shiftplanning_id": 3857166,
+    "name": "Beandrea Davis",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/0225/5566/profile_image_360065462106_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 360065462106
+  }, {
+    "shiftplanning_id": 3891389,
+    "name": "Eric Pendley",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L3",
+    "title": "Technical Account Manager",
+    "zendesk_id": 360230007186
+  }, {
+    "shiftplanning_id": 3891406,
+    "name": "Tiffany Bloom",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 360230004846
+  }, {
+    "shiftplanning_id": 3891407,
+    "name": "Tamir Goldberg",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 360136551503
+  }, {
+    "shiftplanning_id": 3889003,
+    "name": "Jonathan Weng",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 360159259086
+  }, {
+    "shiftplanning_id": 3952988,
+    "name": "Brittini Odom",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/4368/8971/Image_6-6-18_at_8.18_PM.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 361764541312
+  }, {
+    "shiftplanning_id": 4000809,
+    "name": "Monika Rozanska",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 363396434992
+  }, {
+    "shiftplanning_id": 4000810,
+    "name": "Daniel Clift",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/2701/3171/profile_image_363426496352_604014_thumb.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 363426496352
+  }, {
+    "shiftplanning_id": 4000807,
+    "name": "Viv Houghton",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/2219/4291/profile_image_362658061812_604014.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 362658061812
+  }, {
+    "shiftplanning_id": 4000757,
+    "name": "Brian Sell",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/2627/1072/profile_image_363269748531_604014.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 363269748531
+  }, {
+    "shiftplanning_id": 4000808,
+    "name": "Michael Siegle",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/2620/8592/profile_image_363352398212_604014.png",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 363352398212
+  }, {
+    "shiftplanning_id": 4028571,
+    "name": "Julia Marinozzi",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/3024/3212/julia_marinozzi.jpeg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 363927928312 
+  }, {
+    "shiftplanning_id": 4070261,
+    "name": "Sandra Remizowschi",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/3710/5571/profile_image_364662955512_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 364662955512 
+  }, {
+    "shiftplanning_id": 4103522,
+    "name": "Alex Petersen",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/4298/8171/T02JUU8R5-WAPKXP4FQ-d47e41d117f5-1024.jpeg",
+    "team": "L3",
+    "title": "Dev Support Engineer",
+    "zendesk_id": 365163974552 
+  }, {
+    "shiftplanning_id": 4104512,
+    "name": "Anisah Henderson",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 365385060271 
+  }, {
+    "shiftplanning_id": 4104513,
+    "name": "Miriana Moura",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/0002/8179/6243/invision.png",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 365416611052 
+  }, {
+    "shiftplanning_id": 4137024,
+    "name": "Lamda Yap",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/4766/6051/screen-shot-2016-09-23-at-2-50-57-pm.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 365980998412 
+  }, {
+    "shiftplanning_id": 4137788,
+    "name": "Robin Sturmeit",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/4785/9731/T02JUU8R5-WAVNJ93E3-a932dc299c7d-1024.jpeg",
+    "team": "L3",
+    "title": "Dev Support Engineer",
+    "zendesk_id": 365865598631 
+  }, {
+    "shiftplanning_id": 4152687,
+    "name": "Diana Chin",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/4515/4572/profile_image_365467068071_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 365467068071 
+  }, {
+    "shiftplanning_id": 4174693,
+    "name": "Jasmine Hurst",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/5555/2812/jasminehurst.jpeg",
+    "team": "L3",
+    "title": "Technical Account Manager",
+    "zendesk_id": 366874038152 
+  }, {
+    "shiftplanning_id": 4190204,
+    "name": "Angelica Navarro",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/5856/5651/IMG_20180710_123233_587.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 366868801232 
+  }, {
+    "shiftplanning_id": 4190205,
+    "name": "Joao Fernandes",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/5694/1931/profile_image_366899074731_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 366899074731 
+  }, {
+    "shiftplanning_id": 4275486,
+    "name": "Adrian Nicholl",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/8017/1531/me.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 368962763911 
+  }, {
+    "shiftplanning_id": 4269880,
+    "name": "Taylor Kozaczki",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/7899/4572/profile_image_368945609272_604014.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 368945609272 
+  }, {
+    "shiftplanning_id": 4311896,
+    "name": "Maria Fernandez",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/5908/3452/profile_image_367121593711_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 367121593711 
+  }, {
+    "shiftplanning_id": 4317797,
+    "name": "Sean Young",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/6475/0889/Calendly_Photo_ENT.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 455203245 
+  }, {
+    "shiftplanning_id": 4396594,
+    "name": "Jordie Saenz",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3601/1424/6212/IMG_0519.JPG",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 370915016731 
+  }, {
+    "shiftplanning_id": 4402288,
+    "name": "André Golik",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3601/1720/1492/André.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 371316414772 
+  }, {
+    "shiftplanning_id": 4384841,
+    "name": "Chelsie Luis",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3600/9968/8571/41530675_10157692924620130_4229939386604584960_n.jpg",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 370641698552 
+  }, {
+    "shiftplanning_id": 4410066,
+    "name": "Doron Rubin",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3601/2365/7391/pic.png",
+    "team": "L2",
+    "title": "Support Engineer",
+    "zendesk_id": 371915920492 
+  }, {
+    "shiftplanning_id": 4431133,
+    "name": "Jeremy Bauer",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3601/3119/6011/profile_image_372535522012_604014.jpg",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 372535522012 
+  }, {
+    "shiftplanning_id": 4440051,
+    "name": "Laura Cunha",
+    "avatar": "https://invisionapp.zendesk.com/system/photos/3601/3410/7271/profile_image_372519456212_604014.png",
+    "team": "L1",
+    "title": "Customer Advocate",
+    "zendesk_id": 372519456212 
+  }]
